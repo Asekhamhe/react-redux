@@ -2,7 +2,7 @@ import * as actionTypes from "./actionTypes";
 
 // Action creator
 export const increment = () => ({
-  type: actionTypes.actionTypes.INCREMENT,
+  type: actionTypes.INCREMENT,
 });
 
 export const decrement = () => ({
